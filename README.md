@@ -1,4 +1,4 @@
-### Hi, I'm Angel Hernandez, a software developer :technologist:
+## Hi, I'm Angel Hernandez, a software developer :technologist:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Angel-Znoker)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-znoker/)
@@ -7,17 +7,30 @@
 --
 
 I'm a Computer Engineering student at the National Autonomous University of Mexico (UNAM). I am passionate about programming and development. I am very interested in the topics of Algorithms, Artificial Intelligence and Data Science, as well as Web Development. I really like to solve problems and challenges and make contributions to find optimal solutions.
-<!--
-**Angel-Znoker/Angel-Znoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal Stuffs:**
+
+- 🔭 I’m currently working on [FI UNAM](https://www.ingenieria.unam.mx/)
+- 🌱 I’m currently learning Web Development and ML algorithms
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: angel96esti@gmail.com
+- ⚡ Fun fact: I'd like to be an astronaut
+
+**Language and Tools:**
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+</p>
