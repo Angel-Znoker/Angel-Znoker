@@ -19,6 +19,10 @@ I'm a Computer Engineering student at the National Autonomous University of Mexi
 
 **Language and Tools:**
 <p>
+  <a href="https://github.com/Angel-Znoker">
+    <img width="55%" align="right" alt="Angel's github stats" src="https://github-readme-stats.vercel.app/api?username=Angel-Znoker&show_icons=true&hide_border=true" />
+  </a>
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
